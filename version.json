@@ -1,5 +1,5 @@
 {
-  "version": "2.1.1",
-  "url": "https://github.com/raafat-cloud/ProCutStudio/releases/download/v2.1.1/ProCutStudio_Setup_v2.1.1.exe",
-  "notes": "إضافة محرك VLC لتشغيل ملفات MOV وجميع الصيغ الاحترافية فوراً بدون تقطيع."
+  "version": "2.2.0",
+  "url": "https://github.com/raafat-cloud/ProCutStudio/releases/download/v2.2.0/ProCutStudio_Setup_v2.2.0.exe",
+  "notes": "إضافة التحريك المباشر بالماوس على الشاشة، ونظام الإطارات المفتاحية (Keyframes)، ومساحات العمل التفاعلية، وحفظ المشاريع بصيغة .procut."
 }
